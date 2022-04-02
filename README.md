@@ -1,5 +1,5 @@
 # INSERTION SORT
-![image](img\insertionsort.png)
+![image](img/insertionsort.png)
 ## [22,27,16,2,18,6] -> Insertion Sort
 
 ### 1. Yukarıda verilen dizinin sort türüne göre aşamalarını yazınız.
@@ -19,7 +19,7 @@
 - Bu değerin Big O değeri O(n^2) dir.
 ```
 
-![image](img\insertion_sort.gif)
+![image](img/Insertion_sort.gif)
 
 ### 3. Time Complexity
 ```
@@ -37,7 +37,7 @@ Big O gösterimi ise O(n)'dir.
 - 18 sayısı Average Case kapsamına girer.
 ```
 
-![image](img\Insertion-sort-example-300px.gif)
+![image](img/Insertion-sort-example-300px.gif)
 
 ## [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
 ```
@@ -46,4 +46,7 @@ Big O gösterimi ise O(n)'dir.
 - [3,5,7,8,2,9,4,15,6]
 - [2,3,5,7,8,9,4,15,6]
 - [2,3,4,5,7,8,9,15,6]
+<<<<<<< HEAD
 ```
+=======
+>>>>>>> 3a6e6112736bcd5a270149c5ccab43f89fcdff90
